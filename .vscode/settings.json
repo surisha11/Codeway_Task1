@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/mysql-connector-java-8.0.12.jar",
+            "lib/swingx-core.jar",
+            "lib/swingx-1.6.1.jar",
+            "lib/jdatepicker-1.3.4.jar",
+            "lib/jcalendar-1.4.jar",
+            "lib\\javafx-0.2.jar"
+        ],
+        "exclude": [
+            "lib/javafx-0.2.jar"
+        ]
+    }
+}
